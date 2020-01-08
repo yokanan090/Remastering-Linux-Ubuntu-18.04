@@ -2,11 +2,80 @@ Langkah langkah remastering sebagai berikut :
 
 1. pastikan linux ubuntu 18.04 sudah terinstall
 2. install aplikasi untuk web development
+    -PHP STORM
+        sudo snap install phpstorm --classic
+    -Visual Studio Code
+        Install melalui Ubuntu software
+    - Sublime Text
+        sudo snap install sublime-text --classic
+    - Atom
+        sudo add-apt-repository ppa:webupd8team/atom
+        sudo apt-get update
+        sudo apt-get install atom
+    - Webstorm
+        sudo snap install webstorm --classic
+    - Brackets
+        sudo add-apt-repository ppa:webupd8team/brackets
+        sudo apt-get update
+        sudo apt-get install brackets
+     - GNU Emacs
+        install melalui ubuntu software
 3. mengganti wallpaper
-4. mengedit logo plymouth
-5. mengganti tema gdm
-6. mengganti tema gtk3
-7. mengedit file issue, issue.net, dan lsb-release
-8. repack menjadi file .iso menggunakan pinguy builder versi 5.1.8
+    Copy paste file gambar wallpaper ke direktori
+    
+        usr/share/backgrounds
+    
+    yang sudah disediakan dengan nama yang sama pada gambar, kemudian replace
+4. Menginstall gnome tweak tool
+
+        sudo apt-get install gnome-tweak-tool
+
+5. mengganti tema icon
+      NAMA ICON : MACARON
+      SUMBER = GNOME-LOOK.ORG
+          
+          cara install : 
+          copy folder hasil extract ke 
+          
+              usr/share/icons
+          
+          kemudian aktifkan menggunakan gnome tweak tool
+
+    
+6. mengganti tema gdm
+    NAMA TEMA : GDM3 Theme Blur
+    SUMBER : GNOME-LOOK.ORG
+          cara install :
+              ./setup.sh -i
+              
+7. mengganti tema gtk
+      NAMA TEMA : Victory Gtk Theme
+      SUMBER : GNOME-LOOK.ORG
+          cara install : 
+              copy hasil extract ke 
+              
+                  usr/share/themes
+                  
+              kemudian aktifkan menggunakan gnome tweak tool
+
+8. menginstall plank
+    NAMA TEMA PLANK : The Cupertino Effect inGrey
+        cara install :
+            sudo apt-get install plank
+        kemudian pindahkan hasil extract ke
+            home/.local/share/plank/themes
+        lalu aktifkan pada preferences plank
+8. mengedit file issue, issue.net, dan lsb-release
+9. mengganti logo booting
+    langkah-langkah :
+        Rename logo yang sudah disiapkan dengan nama yang sama seperti
+        nama gambar logo pada Plymouth Ubuntu-logo
+        Kemudian copy dan paste kan pada :
+        
+            usr/share/plymouth/themes/ubuntu-logo
+        
+        kemudian replace
+
+10. repack menjadi file .iso menggunakan pinguy builder versi 5.1.8
 
 link video :https://drive.google.com/open?id=1-WilgZyWa8B9GML-x8gpIZJ-Uzw88qnh
