@@ -9,3 +9,4 @@ Langkah langkah remastering sebagai berikut :
 7. mengedit file issue, issue.net, dan lsb-release
 8. repack menjadi file .iso menggunakan pinguy builder versi 5.1.8
 
+link video :https://drive.google.com/open?id=1-WilgZyWa8B9GML-x8gpIZJ-Uzw88qnh
