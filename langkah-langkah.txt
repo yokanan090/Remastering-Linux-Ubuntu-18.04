@@ -1,0 +1,11 @@
+Langkah langkah remastering sebagai berikut :
+
+1. pastikan linux ubuntu 18.04 sudah terinstall
+2. install aplikasi untuk web development
+3. mengganti wallpaper
+4. mengedit logo plymouth
+5. mengganti tema gdm
+6. mengganti tema gtk3
+7. mengedit file issue, issue.net, dan lsb-release
+8. repack menjadi file .iso menggunakan pinguy builder versi 5.1.8
+
