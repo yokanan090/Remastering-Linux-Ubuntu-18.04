@@ -1,3 +1,12 @@
+REMASTERING LINUX DENGAN TEMA WEB DEVELOPMENT
+
+ANGGOTA = - JEHAN AHMAD WASESA (18.01.4209)
+          - YOKANAN PRASETYA ADI (18.01.4123)
+          - ROHMAD BUDI PANGESTU (18.01.4168)
+          - ANWAR MAULANA IHLASUL AMAL (18.01.4195)
+
+
+
 Langkah langkah remastering sebagai berikut :
 
 1. pastikan linux ubuntu 18.04 sudah terinstall
