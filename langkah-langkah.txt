@@ -36,8 +36,8 @@ Langkah langkah remastering sebagai berikut :
           
           cara install : 
           copy folder hasil extract ke 
-          
-              usr/share/icons
+      
+          usr/share/icons
           
           kemudian aktifkan menggunakan gnome tweak tool
 
@@ -77,7 +77,7 @@ Langkah langkah remastering sebagai berikut :
         kemudian replace
 
 10. repack menjadi file .iso menggunakan pinguy builder versi 5.1.8
-11. Final project telah jadii
+11. Final project telah jadi
 
 
 
