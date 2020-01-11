@@ -90,6 +90,6 @@ Langkah langkah remastering sebagai berikut :
 
 link iso = https://drive.google.com/open?id=1Gik56yECCwcih-zy-el36ueUWmhKpv_H
 
-link video = https://drive.google.com/open?id=1-WilgZyWa8B9GML-x8gpIZJ-Uzw88qnh
+link video = https://www.youtube.com/watch?v=Wfy8ZOogdbM
 
 
